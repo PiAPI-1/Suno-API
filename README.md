@@ -66,7 +66,7 @@ Introducing our unofficial [Suno API](https://piapi.ai/suno-api), tailored for d
 <h4>Host-your-account Option</h4>
 
 <ul>
-  <li><b>5</b>/seat/month</li>
+  <li>$<b>5</b>/seat/month</li>
 </ul>
 
 <br>
