@@ -47,7 +47,7 @@ Introducing our unofficial [Suno API](https://piapi.ai/suno-api), tailored for d
 
 <ul>
   <li>Faster generation time</li>
-  <li>No need to host your own Suno account</li>
+  <li>Supports hosting of multiple accounts</li>
   <li>Stable API service</li>
 </ul>
 
