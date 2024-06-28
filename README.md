@@ -66,7 +66,7 @@ Introducing our unofficial [Suno API](https://piapi.ai/suno-api), tailored for d
 <h4>Host-your-account Option</h4>
 
 <ul>
-  <li>$<b>5</b>/seat/month</li>
+  <li>Flat pricing: $<b>5</b>/seat/month</li>
 </ul>
 
 <br>
@@ -91,7 +91,7 @@ Please refer to our <a href="https://piapi.ai/pricing">pricing page</a> for more
 
 <br>
 
-<p>Create a "Generate Music" call</p>
+<p>Create a Generate Music call</p>
 
 ```
 curl --request POST \
@@ -124,17 +124,17 @@ curl --request POST \
 ```
 <br>
 
-<p>Get the "Generate Music" call</p>
+<p>Get the Generate Music call</p>
 
 ```
 curl --request GET \
-  --url https://api.piapi.ai/api/suno/v1/music/Insert_the_taskID_here \
+  --url https://api.piapi.ai/api/suno/v1/music/Insert_the_taskID_here \   //Replace the task_id with the returned task_id
   --header 'Accept: application/json' \
   --header 'X-API-Key: {{x-api-key}}'
 ```
 <br>
 
-<p>Response - Check out our <a href="https://piapi.ai/docs/faceswap-api/fetch">documentation</a> for more information!</p>
+<p>Response - Check out our <a href="https://piapi.ai/docs/suno-api/get-music">documentation</a> for more information!</p>
 
 <br><br>
 
