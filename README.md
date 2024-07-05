@@ -1,4 +1,4 @@
-# Suno-API
+# Suno API
 Introducing our unofficial [Suno API](https://piapi.ai/suno-api), tailored for developers to bring Suno's text-to-music generation to their AI platforms. This integration allows users across the globe to express their musical creativity with ease.
 <br><br>
 
